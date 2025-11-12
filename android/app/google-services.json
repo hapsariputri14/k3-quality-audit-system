@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016511478525",
+    "project_id": "productqualityaudit",
+    "storage_bucket": "productqualityaudit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016511478525:android:52e8a1b7870d31604a9c94",
+        "android_client_info": {
+          "package_name": "com.product_quality.audit.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMX5hKwJiD0z3lBdiTXoPKznd2_g9zsuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
